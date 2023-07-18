@@ -24,8 +24,6 @@ Therefore, my approach will involve analyzing the data to identify patterns that
 
 **Metric Evaluation**
 
-![metrics.png](metrics.png)
-
 Type 1 error: False Positive. The model predicts that a customer will file a claim, but in reality, they do not. This results in the company losing potential customers as they are not offered insurance policies.
 
 Type 2 error: False Negative. The model predicts that a customer will not file a claim, but in reality, they do. This requires the company to pay unexpected claim expenses.
